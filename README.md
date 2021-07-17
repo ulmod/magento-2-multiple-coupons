@@ -2,6 +2,8 @@
 
 [Multiple Coupons](https://www.ulmod.com/multiple-coupons-for-magento-2.html) is a  Magento 2 extension that allows buyers to use one or multiple coupon codes at once during their shopping. 
 
+With Magento 2 Multiple Coupons Discounts, you can enable shoppers to apply one or multiple coupon codes for one order and get the maximum possible discount.
+
 <a href="https://www.ulmod.com/multiple-coupons-for-magento-2.html"><img width="205" src="https://www.ulmod.com/media/wysiwyg/um-download-now1.png"></a>
 
 ## Key Features
